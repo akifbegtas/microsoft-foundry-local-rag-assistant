@@ -1,0 +1,13 @@
+.venv/
+.local/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+tmp/
+data/*.db
+output/*.png
+output/*.webp
+output/*.layout.json
+output/*.inspect.ndjson
+output/Local_RAG_Project_Presentation/
